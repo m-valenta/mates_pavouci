@@ -17,7 +17,7 @@ npm install
 npm run dev
 ```
 
-Vite vypíše adresu (obvykle `http://localhost:5173`). Stránka se při každé změně souboru sama
+Vite vypíše adresu (obvykle `http://localhost:5173/mates_pavouci/`). Stránka se při každé změně souboru sama
 obnoví. Pro vyzkoušení na telefonu ve stejné Wi‑Fi spusť `npm run dev -- --host` a otevři
 zobrazenou adresu s IP počítače.
 

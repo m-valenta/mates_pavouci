@@ -1,17 +1,43 @@
+import { HashRouter, Route, Routes } from 'react-router-dom';
+import { Box, CircularProgress, Typography } from '@mui/material';
 import { useSpiders } from './data/useSpiders';
+import { SpidersProvider } from './data/SpidersContext';
+import { UserMarksProvider } from './storage/useUserMarks';
+import { ListStateProvider } from './storage/ListStateContext';
+import { Layout } from './pages/Layout';
 
-// Placeholder until the real UI (phase 2) lands: proves that data loading and validation work.
 export default function App() {
   const data = useSpiders();
-  if (data.status === 'loading') return <p>Načítám…</p>;
-  if (data.status === 'error') return <p>Chyba: {data.message}</p>;
+
+  if (data.status === 'loading') {
+    return (
+      <Box sx={{ display: 'grid', placeItems: 'center', minHeight: '100dvh' }}>
+        <CircularProgress />
+      </Box>
+    );
+  }
+  if (data.status === 'error') {
+    return (
+      <Box sx={{ p: 3, textAlign: 'center' }}>
+        <Typography variant="h6">Data o pavoucích se nepodařilo načíst.</Typography>
+        <Typography color="text.secondary">{data.message}</Typography>
+      </Box>
+    );
+  }
+
   return (
-    <ul>
-      {data.spiders.map((s) => (
-        <li key={s.id}>
-          {s.nameCs} ({s.photos.length} fotky)
-        </li>
-      ))}
-    </ul>
+    <SpidersProvider spiders={data.spiders}>
+      <UserMarksProvider>
+        <ListStateProvider>
+          <HashRouter>
+            <Routes>
+              <Route path="/" element={<Layout />} />
+              <Route path="/pavouk/:id" element={<Layout />} />
+              <Route path="*" element={<Layout />} />
+            </Routes>
+          </HashRouter>
+        </ListStateProvider>
+      </UserMarksProvider>
+    </SpidersProvider>
   );
 }
