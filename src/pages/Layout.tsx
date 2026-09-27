@@ -1,3 +1,4 @@
+import { useState } from 'react';
 import {
   AppBar,
   Box,
@@ -10,19 +11,23 @@ import {
 } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import VisibilityIcon from '@mui/icons-material/Visibility';
+import SettingsBackupRestoreIcon from '@mui/icons-material/SettingsBackupRestore';
 import { useNavigate, useParams } from 'react-router-dom';
 import { useSpider, useSpiderList } from '../data/SpidersContext';
 import { useUserMarks } from '../storage/useUserMarks';
 import { SpiderList } from '../components/SpiderList';
 import { SpiderDetail } from '../components/SpiderDetail';
 import { EmptyState } from '../components/EmptyState';
+import { BackupDialog } from '../components/BackupDialog';
+import { RestoreDialog } from '../components/RestoreDialog';
 
 const LIST_WIDTH = 360;
 
 /**
  * Mobil: buď seznam, nebo detail (podle URL). Desktop: seznam vlevo, detail vpravo.
  */
-export const Layout = () => {
+export const Layout = ({ restore = false }: { restore?: boolean }) => {
+  const [backupOpen, setBackupOpen] = useState(false);
   const theme = useTheme();
   const isDesktop = useMediaQuery(theme.breakpoints.up('md'));
   const navigate = useNavigate();
@@ -63,6 +68,9 @@ export const Layout = () => {
           <Typography variant="h6" component="div" noWrap sx={{ flex: 1 }}>
             {showDetailOnly && spider ? spider.nameCs : 'Mates pavouci'}
           </Typography>
+          <IconButton color="inherit" aria-label="Záloha" onClick={() => setBackupOpen(true)}>
+            <SettingsBackupRestoreIcon />
+          </IconButton>
           <Chip
             icon={<VisibilityIcon />}
             label={seenCount}
@@ -100,6 +108,9 @@ export const Layout = () => {
       ) : (
         list
       )}
+
+      <BackupDialog open={backupOpen} onClose={() => setBackupOpen(false)} />
+      {restore && <RestoreDialog />}
     </Box>
   );
 };

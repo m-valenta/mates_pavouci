@@ -31,6 +31,8 @@ export type Photo = z.infer<typeof PhotoSchema>;
 
 export const SpiderSchema = z.object({
   id: z.string().regex(/^[a-z0-9-]+$/, 'id musí být slug (malá písmena, číslice, pomlčky)'),
+  /** Stálé pořadové číslo. Nikdy se nemění ani znovu nepoužívá, slouží v zálohách místo id. */
+  num: z.number().int().positive(),
   category: CategorySchema,
   nameCs: z.string().min(1),
   nameLat: z.string().min(1),
@@ -58,11 +60,20 @@ export const SpiderSchema = z.object({
 export type Spider = z.infer<typeof SpiderSchema>;
 
 export const SpiderListSchema = z.array(SpiderSchema).superRefine((list, ctx) => {
-  const seen = new Set<string>();
+  const seenIds = new Set<string>();
+  const seenNums = new Set<number>();
   list.forEach((s, i) => {
-    if (seen.has(s.id)) {
+    if (seenIds.has(s.id)) {
       ctx.addIssue({ code: 'custom', path: [i, 'id'], message: `Duplicitní id "${s.id}"` });
     }
-    seen.add(s.id);
+    if (seenNums.has(s.num)) {
+      ctx.addIssue({
+        code: 'custom',
+        path: [i, 'num'],
+        message: `Duplicitní num ${s.num} (${s.id})`,
+      });
+    }
+    seenIds.add(s.id);
+    seenNums.add(s.num);
   });
 });

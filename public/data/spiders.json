@@ -1,6 +1,7 @@
 [
   {
     "id": "krizak-obecny",
+    "num": 1,
     "category": "cz",
     "nameCs": "Křižák obecný",
     "nameLat": "Araneus diadematus",
@@ -63,6 +64,7 @@
   },
   {
     "id": "krizak-pruhovany",
+    "num": 2,
     "category": "cz",
     "nameCs": "Křižák pruhovaný",
     "nameLat": "Argiope bruennichi",
@@ -124,6 +126,7 @@
   },
   {
     "id": "krizak-podkorni",
+    "num": 3,
     "category": "cz",
     "nameCs": "Křižák podkorní",
     "nameLat": "Nuctenea umbratica",
@@ -194,6 +197,7 @@
   },
   {
     "id": "krizak-zeleny",
+    "num": 4,
     "category": "cz",
     "nameCs": "Křižák zelený",
     "nameLat": "Araniella cucurbitina",
@@ -256,6 +260,7 @@
   },
   {
     "id": "pokoutnik-domaci",
+    "num": 5,
     "category": "cz",
     "nameCs": "Pokoutník domácí",
     "nameLat": "Tegenaria domestica",
@@ -325,6 +330,7 @@
   },
   {
     "id": "pokoutnik-tmavy",
+    "num": 6,
     "category": "cz",
     "nameCs": "Pokoutník tmavý",
     "nameLat": "Eratigena atrica",
@@ -395,6 +401,7 @@
   },
   {
     "id": "tresavka-velka",
+    "num": 7,
     "category": "cz",
     "nameCs": "Třesavka velká",
     "nameLat": "Pholcus phalangioides",
@@ -457,6 +464,7 @@
   },
   {
     "id": "skakavka-pruhovana",
+    "num": 8,
     "category": "cz",
     "nameCs": "Skákavka pruhovaná",
     "nameLat": "Salticus scenicus",
@@ -520,6 +528,7 @@
   },
   {
     "id": "beznik-kopretinovy",
+    "num": 9,
     "category": "cz",
     "nameCs": "Běžník kopretinový",
     "nameLat": "Misumena vatia",
@@ -573,6 +582,7 @@
   },
   {
     "id": "lovcik-hajni",
+    "num": 10,
     "category": "cz",
     "nameCs": "Lovčík hajní",
     "nameLat": "Pisaura mirabilis",
@@ -634,6 +644,7 @@
   },
   {
     "id": "lovcik-vodni",
+    "num": 11,
     "category": "cz",
     "nameCs": "Lovčík vodní",
     "nameLat": "Dolomedes fimbriatus",
@@ -696,6 +707,7 @@
   },
   {
     "id": "slidak-hajni",
+    "num": 12,
     "category": "cz",
     "nameCs": "Slíďák hajní",
     "nameLat": "Pardosa lugubris",
@@ -758,6 +770,7 @@
   },
   {
     "id": "vodouch-stribrity",
+    "num": 13,
     "category": "cz",
     "nameCs": "Vodouch stříbřitý",
     "nameLat": "Argyroneta aquatica",
@@ -823,6 +836,7 @@
   },
   {
     "id": "zaprednice-jedovata",
+    "num": 14,
     "category": "cz",
     "nameCs": "Zápřednice jedovatá",
     "nameLat": "Cheiracanthium punctorium",
@@ -884,6 +898,7 @@
   },
   {
     "id": "celistnatka-rakosni",
+    "num": 15,
     "category": "cz",
     "nameCs": "Čelistnatka rákosní",
     "nameLat": "Tetragnatha extensa",
@@ -947,6 +962,7 @@
   },
   {
     "id": "snovacka-pokoutni",
+    "num": 16,
     "category": "cz",
     "nameCs": "Snovačka pokoutní",
     "nameLat": "Steatoda bipunctata",
@@ -1016,6 +1032,7 @@
   },
   {
     "id": "plachetnatka-kerova",
+    "num": 17,
     "category": "cz",
     "nameCs": "Plachetnatka keřová",
     "nameLat": "Linyphia triangularis",
@@ -1076,6 +1093,7 @@
   },
   {
     "id": "cedivka-podkorni",
+    "num": 18,
     "category": "cz",
     "nameCs": "Cedivka podkorní",
     "nameLat": "Amaurobius fenestralis",
@@ -1145,6 +1163,7 @@
   },
   {
     "id": "sklipkanek-cerny",
+    "num": 19,
     "category": "cz",
     "nameCs": "Sklípkánek černý",
     "nameLat": "Atypus piceus",
@@ -1191,6 +1210,7 @@
   },
   {
     "id": "stepnik-rudy",
+    "num": 20,
     "category": "cz",
     "nameCs": "Stepník rudý",
     "nameLat": "Eresus kollari",

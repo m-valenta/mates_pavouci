@@ -150,7 +150,7 @@ Doporučení: **GitHub Pages** s GitHub Actions. Volitelně vlastní `.cz` domé
 | 0 ✅ | Základ | git repo, Vite+React+TS+MUI, ESLint/Prettier, CI deploy prázdné stránky na Pages | 1 večer |
 | 1 ✅ | Data | schéma, validátor, skript na obrázky, 5 prvních pavouků s fotkami | 1–2 večery |
 | 2 ✅ | UI kostra | seznam, vyhledávání, detail, routing, responzivní layout | 2 večery |
-| 3 🔶 | Značky | srdíčko a „viděli jsme“, filtry, řazení hotové; zbývá záloha/obnova | 1 večer |
+| 3 ✅ | Značky | srdíčko a „viděli jsme“, filtry, řazení, záloha/obnova odkazem | 1 večer |
 | 4 | Vzhled | téma, ikony, prázdné stavy, test na iPhonu, dostupnost | 1–2 večery |
 | 5 | Naplnění dat | doplnění na ~20 druhů, korektura textů se synem | průběžně |
 | 6 | Rozšíření | kategorie sklípkani, PWA offline, odznaky/kvíz | později |

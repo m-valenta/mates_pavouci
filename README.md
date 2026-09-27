@@ -37,7 +37,8 @@ Web pak běží na https://m-valenta.github.io/mates_pavouci/.
 ## Práce s daty
 
 - Data: `public/data/spiders.json`, schéma a typy: `src/data/schema.ts`.
-- Nový pavouk: přidej záznam do JSON s prázdným `photos: []` a spusť:
+- Nový pavouk: přidej záznam do JSON s prázdným `photos: []` a dalším volným `num`
+  (stálé pořadové číslo; nikdy ho neměň ani nepoužij znovu, zálohy značek se na něj odkazují) a spusť:
 
 ```bash
 npm run fetch-photos                   # dohledá fotky pro pavouky bez fotek

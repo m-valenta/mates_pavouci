@@ -33,6 +33,7 @@ export default function App() {
             <Routes>
               <Route path="/" element={<Layout />} />
               <Route path="/pavouk/:id" element={<Layout />} />
+              <Route path="/obnovit" element={<Layout restore />} />
               <Route path="*" element={<Layout />} />
             </Routes>
           </HashRouter>
