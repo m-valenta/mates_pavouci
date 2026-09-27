@@ -1,0 +1,1252 @@
+[
+  {
+    "id": "krizak-obecny",
+    "category": "cz",
+    "nameCs": "Křižák obecný",
+    "nameLat": "Araneus diadematus",
+    "family": "křižákovití",
+    "size": {
+      "femaleMm": [
+        10,
+        18
+      ],
+      "maleMm": [
+        5,
+        10
+      ],
+      "note": "Samice je velká asi jako nehet na palci."
+    },
+    "lifespan": "Asi 1 rok. Na jaře se vylíhne, na konci léta doroste a na podzim samice naklade vajíčka.",
+    "lifestyle": {
+      "hunting": "Staví velkou kruhovou síť. Sedí uprostřed nebo v úkrytu vedle a drží signální vlákno, aby poznal, že se něco chytilo.",
+      "food": "Mouchy, komáři, vosy, motýli a další létající hmyz.",
+      "wintering": "Dospělí pavouci na podzim hynou. Zimu přežijí jen vajíčka v kokonu schovaném ve škvíře."
+    },
+    "occurrence": {
+      "czech": "Velmi hojný po celé České republice.",
+      "habitat": "Zahrady, ploty, okna, okraje lesů, vysoké byliny.",
+      "months": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Na zadečku má bílý kříž. Každou noc svou síť sní a ráno upřede novou.",
+    "photos": [
+      {
+        "src": "images/krizak-obecny/1.webp",
+        "thumb": "images/krizak-obecny/1-thumb.webp",
+        "alt": "Křižák obecný",
+        "author": "Quartl",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araneus_diadematus_qtl1.jpg"
+      },
+      {
+        "src": "images/krizak-obecny/2.webp",
+        "thumb": "images/krizak-obecny/2-thumb.webp",
+        "alt": "Křižák obecný",
+        "author": "Didier Descouens",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araneus_diadematus_MHNT_Femelle_Fronton.jpg"
+      },
+      {
+        "src": "images/krizak-obecny/3.webp",
+        "thumb": "images/krizak-obecny/3-thumb.webp",
+        "alt": "Křižák obecný",
+        "author": "Syrio",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araneus_diadematus_Tonini_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "krizak-pruhovany",
+    "category": "cz",
+    "nameCs": "Křižák pruhovaný",
+    "nameLat": "Argiope bruennichi",
+    "family": "křižákovití",
+    "size": {
+      "femaleMm": [
+        14,
+        25
+      ],
+      "maleMm": [
+        4,
+        6
+      ],
+      "note": "Sameček je maličký, samice až šestkrát větší."
+    },
+    "lifespan": "Asi 1 rok.",
+    "lifestyle": {
+      "hunting": "Velká kruhová síť nízko v trávě. Uprostřed sítě bývá bílý klikatý pruh z pavučiny.",
+      "food": "Kobylky, sarančata, včely, mouchy.",
+      "wintering": "Vajíčka přezimují v hnědém kokonu ve tvaru baňky zavěšeném v trávě."
+    },
+    "occurrence": {
+      "czech": "Hojný v teplejších krajích, postupně se šíří po celé republice.",
+      "habitat": "Louky, meze, okraje polí, vysoká tráva u vody.",
+      "months": [
+        7,
+        8,
+        9
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Vypadá jako vosa, ale je to jen převlek, aby ho nechtěl nikdo sežrat.",
+    "photos": [
+      {
+        "src": "images/krizak-pruhovany/1.webp",
+        "thumb": "images/krizak-pruhovany/1-thumb.webp",
+        "alt": "Křižák pruhovaný",
+        "author": "Laitche",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argiope_bruennichi_QXGA.jpg"
+      },
+      {
+        "src": "images/krizak-pruhovany/2.webp",
+        "thumb": "images/krizak-pruhovany/2-thumb.webp",
+        "alt": "Křižák pruhovaný",
+        "author": "Michael Apel",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argiope_bruennichi_MichaD_6.jpg"
+      },
+      {
+        "src": "images/krizak-pruhovany/3.webp",
+        "thumb": "images/krizak-pruhovany/3-thumb.webp",
+        "alt": "Křižák pruhovaný",
+        "author": "Holger Krisp",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wespenspinne_Zebraspinne_Argiope_bruennichi.jpg"
+      }
+    ]
+  },
+  {
+    "id": "krizak-podkorni",
+    "category": "cz",
+    "nameCs": "Křižák podkorní",
+    "nameLat": "Nuctenea umbratica",
+    "family": "křižákovití",
+    "size": {
+      "femaleMm": [
+        11,
+        16
+      ],
+      "maleMm": [
+        8,
+        10
+      ],
+      "note": "Je nápadně placatý."
+    },
+    "lifespan": "Asi 2 roky, dospělí pavouci přežívají zimu.",
+    "lifestyle": {
+      "hunting": "Kruhovou síť staví až za soumraku. Přes den je schovaný ve škvíře v kůře nebo v plotě.",
+      "food": "Noční hmyz, můry, mouchy.",
+      "wintering": "Dospělý ve škvírách kůry, plotů a okenic."
+    },
+    "occurrence": {
+      "czech": "Velmi hojný po celé republice.",
+      "habitat": "Dřevěné ploty, okenice, kůra stromů, zahradní domky, lavičky.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Je plochý jako placka, aby se vešel do úzké škvíry pod kůrou.",
+    "photos": [
+      {
+        "src": "images/krizak-podkorni/1.webp",
+        "thumb": "images/krizak-podkorni/1-thumb.webp",
+        "alt": "Křižák podkorní",
+        "author": "Anevrisme",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuctenea_umbratica_4.jpg"
+      },
+      {
+        "src": "images/krizak-podkorni/2.webp",
+        "thumb": "images/krizak-podkorni/2-thumb.webp",
+        "alt": "Křižák podkorní",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuctenea_fg02.jpg"
+      },
+      {
+        "src": "images/krizak-podkorni/3.webp",
+        "thumb": "images/krizak-podkorni/3-thumb.webp",
+        "alt": "Křižák podkorní",
+        "author": "Syrio",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Nuctenea_umbratica_-_Piazzo_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "krizak-zeleny",
+    "category": "cz",
+    "nameCs": "Křižák zelený",
+    "nameLat": "Araniella cucurbitina",
+    "family": "křižákovití",
+    "size": {
+      "femaleMm": [
+        5,
+        9
+      ],
+      "maleMm": [
+        4,
+        6
+      ]
+    },
+    "lifespan": "Asi 1 rok.",
+    "lifestyle": {
+      "hunting": "Malá kruhová síť napnutá mezi listy, často jen přes jeden ohnutý list.",
+      "food": "Drobné mušky, mšice, komáři.",
+      "wintering": "Mladí pavouci schovaní v listí a škvírách."
+    },
+    "occurrence": {
+      "czech": "Hojný po celé republice.",
+      "habitat": "Keře, listnaté stromy, zahrady, okraje lesů.",
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Zadeček má zelený jako list a u konce malou červenou tečku.",
+    "photos": [
+      {
+        "src": "images/krizak-zeleny/1.webp",
+        "thumb": "images/krizak-zeleny/1-thumb.webp",
+        "alt": "Křižák zelený",
+        "author": "Martin Hintermeier",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araniella_cucurbitina_01.jpg"
+      },
+      {
+        "src": "images/krizak-zeleny/2.webp",
+        "thumb": "images/krizak-zeleny/2-thumb.webp",
+        "alt": "Křižák zelený",
+        "author": "Holger Krisp",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araniella-cucurbitina-kuerbisspinne.jpg"
+      },
+      {
+        "src": "images/krizak-zeleny/3.webp",
+        "thumb": "images/krizak-zeleny/3-thumb.webp",
+        "alt": "Křižák zelený",
+        "author": "Zeynel Cebeci",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Araniella_cucurbitina_-_Cucumber_green_spider_02.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pokoutnik-domaci",
+    "category": "cz",
+    "nameCs": "Pokoutník domácí",
+    "nameLat": "Tegenaria domestica",
+    "family": "pokoutníkovití",
+    "size": {
+      "femaleMm": [
+        9,
+        12
+      ],
+      "maleMm": [
+        6,
+        9
+      ]
+    },
+    "lifespan": "Několik let.",
+    "lifestyle": {
+      "hunting": "V koutě upřede vodorovnou pavučinu a k ní trubičku, ve které se schovává. Když něco na síť spadne, vyběhne.",
+      "food": "Mouchy, rybenky, moli, komáři i jiní pavouci.",
+      "wintering": "V domech je teplo, takže je aktivní celý rok."
+    },
+    "occurrence": {
+      "czech": "Velmi hojný, skoro v každém domě.",
+      "habitat": "Sklepy, garáže, kůlny, rohy pokojů, za skříněmi.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Žije s lidmi tak dlouho, že ho venku v přírodě už skoro nenajdeš.",
+    "photos": [
+      {
+        "src": "images/pokoutnik-domaci/1.webp",
+        "thumb": "images/pokoutnik-domaci/1-thumb.webp",
+        "alt": "Pokoutník domácí",
+        "author": "Sanchom",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Spider-2007-10-09.png"
+      },
+      {
+        "src": "images/pokoutnik-domaci/2.webp",
+        "thumb": "images/pokoutnik-domaci/2-thumb.webp",
+        "alt": "Pokoutník domácí",
+        "author": "Chb",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tegenaria-domestica-chb.jpg"
+      },
+      {
+        "src": "images/pokoutnik-domaci/3.webp",
+        "thumb": "images/pokoutnik-domaci/3-thumb.webp",
+        "alt": "Pokoutník domácí",
+        "author": "Magne Flåten",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tegenaria_domestica-f.jpg"
+      }
+    ]
+  },
+  {
+    "id": "pokoutnik-tmavy",
+    "category": "cz",
+    "nameCs": "Pokoutník tmavý",
+    "nameLat": "Eratigena atrica",
+    "family": "pokoutníkovití",
+    "size": {
+      "femaleMm": [
+        11,
+        18
+      ],
+      "maleMm": [
+        10,
+        15
+      ],
+      "note": "S nohama měří až 7 cm."
+    },
+    "lifespan": "2 až 3 roky, samice i déle.",
+    "lifestyle": {
+      "hunting": "Velká plachetkovitá síť s úkrytem ve tvaru trubky. V noci také běhá a loví.",
+      "food": "Hmyz, jiní pavouci.",
+      "wintering": "V budovách je aktivní celý rok."
+    },
+    "occurrence": {
+      "czech": "Hojný po celé republice.",
+      "habitat": "Sklepy, garáže, kůlny. Na podzim se samci toulají a objevují se v bytech.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Jeden z největších českých pavouků a výborný běžec. Ten velký pavouk ve vaně na podzim je právě on.",
+    "photos": [
+      {
+        "src": "images/pokoutnik-tmavy/1.webp",
+        "thumb": "images/pokoutnik-tmavy/1-thumb.webp",
+        "alt": "Pokoutník tmavý",
+        "author": "MdE",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tegenaria_atrica-Hauswinkelspinne.jpg"
+      },
+      {
+        "src": "images/pokoutnik-tmavy/2.webp",
+        "thumb": "images/pokoutnik-tmavy/2-thumb.webp",
+        "alt": "Pokoutník tmavý",
+        "author": "Géry PARENT",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eratigena_atrica_(C._L._Koch,_1843)_-_femelle_.jpg"
+      },
+      {
+        "src": "images/pokoutnik-tmavy/3.webp",
+        "thumb": "images/pokoutnik-tmavy/3-thumb.webp",
+        "alt": "Pokoutník tmavý",
+        "author": "Gunnar Creutz",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:St%C3%B6rre_husspindel_(Eratigena_atrica)_i_V%C3%A4smestorp,_S%C3%B6rby_sn_8283.jpg"
+      }
+    ]
+  },
+  {
+    "id": "tresavka-velka",
+    "category": "cz",
+    "nameCs": "Třesavka velká",
+    "nameLat": "Pholcus phalangioides",
+    "family": "třesavkovití",
+    "size": {
+      "femaleMm": [
+        7,
+        10
+      ],
+      "maleMm": [
+        6,
+        9
+      ],
+      "note": "Tělo je malé, ale tenké nohy měří až 5 cm."
+    },
+    "lifespan": "2 až 3 roky.",
+    "lifestyle": {
+      "hunting": "Řídká nepravidelná síť u stropu. Na kořist hází pavučinu a zamotá ji.",
+      "food": "Mouchy, komáři a jiní pavouci, i mnohem větší pokoutníci.",
+      "wintering": "V teple domů je aktivní celý rok."
+    },
+    "occurrence": {
+      "czech": "Velmi hojná ve všech budovách.",
+      "habitat": "Stropy, rohy místností, sklepy, koupelny, garáže.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Když ji vyrušíš, začne se v síti rychle třást, aby ji nebylo vidět. Proto se jmenuje třesavka.",
+    "photos": [
+      {
+        "src": "images/tresavka-velka/1.webp",
+        "thumb": "images/tresavka-velka/1-thumb.webp",
+        "alt": "Třesavka velká",
+        "author": "Olei",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pholcus.phalangioides.6900.jpg"
+      },
+      {
+        "src": "images/tresavka-velka/2.webp",
+        "thumb": "images/tresavka-velka/2-thumb.webp",
+        "alt": "Třesavka velká",
+        "author": "Olei",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pholcus.phalangioides.6908.jpg"
+      }
+    ]
+  },
+  {
+    "id": "skakavka-pruhovana",
+    "category": "cz",
+    "nameCs": "Skákavka pruhovaná",
+    "nameLat": "Salticus scenicus",
+    "family": "skákavkovití",
+    "size": {
+      "femaleMm": [
+        5,
+        7
+      ],
+      "maleMm": [
+        5,
+        6
+      ]
+    },
+    "lifespan": "1 až 2 roky.",
+    "lifestyle": {
+      "hunting": "Síť nestaví. Přes den se plíží za kořistí, prohlédne si ji a skočí. Před skokem se přiváže jistícím vláknem.",
+      "food": "Mušky, mšice a jiný drobný hmyz.",
+      "wintering": "Ve škvírách zdí a pod kůrou."
+    },
+    "occurrence": {
+      "czech": "Hojná po celé republice.",
+      "habitat": "Slunné zdi domů, ploty, okenní rámy, skály.",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Má obrovské přední oči a vidí skoro tak dobře jako ty. Když se k ní nakloníš, otočí se a dívá se na tebe.",
+    "photos": [
+      {
+        "src": "images/skakavka-pruhovana/1.webp",
+        "thumb": "images/skakavka-pruhovana/1-thumb.webp",
+        "alt": "Skákavka pruhovaná",
+        "author": "Olei",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Salticus.scenicus.6916.jpg"
+      },
+      {
+        "src": "images/skakavka-pruhovana/2.webp",
+        "thumb": "images/skakavka-pruhovana/2-thumb.webp",
+        "alt": "Skákavka pruhovaná",
+        "author": "Kaldari",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaldari_Salticus_scenicus_male_01.jpg"
+      },
+      {
+        "src": "images/skakavka-pruhovana/3.webp",
+        "thumb": "images/skakavka-pruhovana/3-thumb.webp",
+        "alt": "Skákavka pruhovaná",
+        "author": "Kaldari",
+        "license": "CC0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Kaldari_Salticus_scenicus_female_01.jpg"
+      }
+    ]
+  },
+  {
+    "id": "beznik-kopretinovy",
+    "category": "cz",
+    "nameCs": "Běžník kopretinový",
+    "nameLat": "Misumena vatia",
+    "family": "běžníkovití",
+    "size": {
+      "femaleMm": [
+        7,
+        11
+      ],
+      "maleMm": [
+        3,
+        5
+      ]
+    },
+    "lifespan": "1 až 2 roky.",
+    "lifestyle": {
+      "hunting": "Síť nestaví. Sedí v květu s roztaženými předními nohami jako krab a čeká, kdo přiletí.",
+      "food": "Včely, motýli, mouchy, často větší než on sám.",
+      "wintering": "Mladí pavouci v opadaném listí."
+    },
+    "occurrence": {
+      "czech": "Hojný po celé republice.",
+      "habitat": "Louky, zahrady, květy kopretin, řebříčku a dalších bílých a žlutých rostlin.",
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Samice umí změnit barvu z bílé na žlutou podle květu, na kterém sedí. Trvá jí to ale několik dní.",
+    "photos": [
+      {
+        "src": "images/beznik-kopretinovy/2.webp",
+        "thumb": "images/beznik-kopretinovy/2-thumb.webp",
+        "alt": "Běžník kopretinový",
+        "author": "Michael Apel",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Misumena_vatia_Apis_mellifera.jpg"
+      },
+      {
+        "src": "images/beznik-kopretinovy/3.webp",
+        "thumb": "images/beznik-kopretinovy/3-thumb.webp",
+        "alt": "Běžník kopretinový",
+        "author": "Didier Descouens",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Misumena_vatia_Vs_Episyrphus_balteatus.jpg"
+      }
+    ]
+  },
+  {
+    "id": "lovcik-hajni",
+    "category": "cz",
+    "nameCs": "Lovčík hajní",
+    "nameLat": "Pisaura mirabilis",
+    "family": "lovčíkovití",
+    "size": {
+      "femaleMm": [
+        12,
+        15
+      ],
+      "maleMm": [
+        10,
+        13
+      ]
+    },
+    "lifespan": "1 až 2 roky.",
+    "lifestyle": {
+      "hunting": "Síť nestaví. Aktivně loví na zemi a v bylinách, často se vyhřívá na listu s nataženými nohami.",
+      "food": "Hmyz a jiní pavouci.",
+      "wintering": "Mladí pavouci v hrabance a trávě."
+    },
+    "occurrence": {
+      "czech": "Hojný po celé republice.",
+      "habitat": "Okraje lesů, louky, křoviny, vysoká tráva.",
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Samice nosí kulatý kokon s vajíčky v čelistech. Pak postaví z pavučiny stan a hlídá v něm mláďata. Sameček jí nosí dárek: zabalenou mouchu.",
+    "photos": [
+      {
+        "src": "images/lovcik-hajni/1.webp",
+        "thumb": "images/lovcik-hajni/1-thumb.webp",
+        "alt": "Lovčík hajní",
+        "author": "user:AngMoKio",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pisaura_mirabilis_Listspinne.jpg"
+      },
+      {
+        "src": "images/lovcik-hajni/2.webp",
+        "thumb": "images/lovcik-hajni/2-thumb.webp",
+        "alt": "Lovčík hajní",
+        "author": "Richard Bartz",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pisaura_mirabilis_on_Plantago_lanceolata.jpg"
+      },
+      {
+        "src": "images/lovcik-hajni/3.webp",
+        "thumb": "images/lovcik-hajni/3-thumb.webp",
+        "alt": "Lovčík hajní",
+        "author": "Mathias Krumbholz",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pisaura_mirabilis_03_(MK).jpg"
+      }
+    ]
+  },
+  {
+    "id": "lovcik-vodni",
+    "category": "cz",
+    "nameCs": "Lovčík vodní",
+    "nameLat": "Dolomedes fimbriatus",
+    "family": "lovčíkovití",
+    "size": {
+      "femaleMm": [
+        15,
+        22
+      ],
+      "maleMm": [
+        9,
+        13
+      ],
+      "note": "S nohama až 7 cm, jeden z největších pavouků u nás."
+    },
+    "lifespan": "2 až 3 roky.",
+    "lifestyle": {
+      "hunting": "Síť nestaví. Sedí na břehu s předními nohami položenými na hladině a cítí vlnky. Umí běhat po vodě i se potopit.",
+      "food": "Vodní hmyz, pulci, malé rybky.",
+      "wintering": "Mladí pavouci na břehu v mechu a rostlinách."
+    },
+    "occurrence": {
+      "czech": "Roztroušeně, spíše vzácnější.",
+      "habitat": "Rašeliniště, tůně, rybníky se zarostlými břehy.",
+      "months": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Když se lekne, potopí se a chvíli zůstane pod vodou schovaný u rostliny.",
+    "photos": [
+      {
+        "src": "images/lovcik-vodni/1.webp",
+        "thumb": "images/lovcik-vodni/1-thumb.webp",
+        "alt": "Lovčík vodní",
+        "author": "Foto: N.Vėlavičienė",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolomedes_fimbriatus.jpg"
+      },
+      {
+        "src": "images/lovcik-vodni/2.webp",
+        "thumb": "images/lovcik-vodni/2-thumb.webp",
+        "alt": "Lovčík vodní",
+        "author": "neznámý autor",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dolomedes_fimbriatus2.jpg"
+      },
+      {
+        "src": "images/lovcik-vodni/3.webp",
+        "thumb": "images/lovcik-vodni/3-thumb.webp",
+        "alt": "Lovčík vodní",
+        "author": "Elke Freese",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Gerandete_Jagdspinne_(Dolomedes_fimbriatus).jpg"
+      }
+    ]
+  },
+  {
+    "id": "slidak-hajni",
+    "category": "cz",
+    "nameCs": "Slíďák hajní",
+    "nameLat": "Pardosa lugubris",
+    "family": "slíďákovití",
+    "size": {
+      "femaleMm": [
+        5,
+        8
+      ],
+      "maleMm": [
+        4,
+        6
+      ]
+    },
+    "lifespan": "1 až 2 roky.",
+    "lifestyle": {
+      "hunting": "Síť nestaví. Rychle běhá po zemi a po listí a loví za dne.",
+      "food": "Drobný hmyz, mušky, mravenci.",
+      "wintering": "V hrabance a pod kameny."
+    },
+    "occurrence": {
+      "czech": "Velmi hojný po celé republice.",
+      "habitat": "Lesní cesty, paseky, sluncem prohřáté listí na zemi.",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Samice nosí kokon připevněný na zadečku. Když se mláďata vylíhnou, vylezou jí na záda a nechají se vozit.",
+    "photos": [
+      {
+        "src": "images/slidak-hajni/1.webp",
+        "thumb": "images/slidak-hajni/1-thumb.webp",
+        "alt": "Slíďák hajní",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Pardosa_lugubris_fg01.jpg"
+      },
+      {
+        "src": "images/slidak-hajni/2.webp",
+        "thumb": "images/slidak-hajni/2-thumb.webp",
+        "alt": "Slíďák hajní",
+        "author": "Holger Krisp",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trauerwolfsspinne_Pardosa_lugubris_2.jpg"
+      },
+      {
+        "src": "images/slidak-hajni/3.webp",
+        "thumb": "images/slidak-hajni/3-thumb.webp",
+        "alt": "Slíďák hajní",
+        "author": "Holger Krisp",
+        "license": "CC BY 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Trauerwolfsspinne_Pardosa_lugubris.jpg"
+      }
+    ]
+  },
+  {
+    "id": "vodouch-stribrity",
+    "category": "cz",
+    "nameCs": "Vodouch stříbřitý",
+    "nameLat": "Argyroneta aquatica",
+    "family": "vodouchovití",
+    "size": {
+      "femaleMm": [
+        8,
+        15
+      ],
+      "maleMm": [
+        10,
+        15
+      ],
+      "note": "Sameček je výjimečně větší než samice."
+    },
+    "lifespan": "Asi 2 roky.",
+    "lifestyle": {
+      "hunting": "Žije pod vodou. Mezi rostlinami upřede zvon z pavučiny a naplní ho vzduchem, který nosí na chloupcích zadečku.",
+      "food": "Vodní hmyz, larvy, drobní korýši.",
+      "wintering": "Pod vodou v hlouběji postaveném zvonu nebo v prázdné ulitě."
+    },
+    "occurrence": {
+      "czech": "Vzácnější, jen v čistých vodách.",
+      "habitat": "Tůně, slepá ramena řek a rybníky s hustými vodními rostlinami.",
+      "months": [
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    "dangerToHumans": "muze-kousnout",
+    "funFact": "Jediný pavouk na světě, který žije celý život pod vodou. Bublinka vzduchu na jeho těle se leskne jako stříbro.",
+    "photos": [
+      {
+        "src": "images/vodouch-stribrity/2.webp",
+        "thumb": "images/vodouch-stribrity/2-thumb.webp",
+        "alt": "Vodouch stříbřitý",
+        "author": "Norbert Schuller Baupi",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Argyroteta_aquatica_M%C3%A4nnchen.jpg"
+      },
+      {
+        "src": "images/vodouch-stribrity/3.webp",
+        "thumb": "images/vodouch-stribrity/3-thumb.webp",
+        "alt": "Vodouch stříbřitý",
+        "author": "Norbert Schuller Baupi",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Agryroneta_aquatica_Weibchen.jpg"
+      },
+      {
+        "src": "images/vodouch-stribrity/1.webp",
+        "thumb": "images/vodouch-stribrity/1-thumb.webp",
+        "alt": "Vodouch stříbřitý",
+        "author": "Alfred Brehm",
+        "license": "Public domain",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Wasserspinne.jpg"
+      }
+    ]
+  },
+  {
+    "id": "zaprednice-jedovata",
+    "category": "cz",
+    "nameCs": "Zápřednice jedovatá",
+    "nameLat": "Cheiracanthium punctorium",
+    "family": "zápřednicovití",
+    "size": {
+      "femaleMm": [
+        10,
+        15
+      ],
+      "maleMm": [
+        7,
+        12
+      ]
+    },
+    "lifespan": "Asi 1 rok.",
+    "lifestyle": {
+      "hunting": "Loveckou síť nestaví. V noci aktivně loví v travinách.",
+      "food": "Hmyz, hlavně kobylky a mouchy.",
+      "wintering": "Mláďata ve společném pevném zápředku v trávě."
+    },
+    "occurrence": {
+      "czech": "Teplé oblasti, hlavně jižní Morava a Polabí. Pomalu se šíří.",
+      "habitat": "Vysoká tráva, louky, meze, okraje polí.",
+      "months": [
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "dangerToHumans": "jedovaty",
+    "funFact": "Samice si uplete pevný bílý zápředek velký jako vlašský ořech a hlídá v něm vajíčka. Jediný český pavouk, kterého je lepší nebrat do ruky. Kousnutí bolí jako bodnutí vosou.",
+    "photos": [
+      {
+        "src": "images/zaprednice-jedovata/1.webp",
+        "thumb": "images/zaprednice-jedovata/1-thumb.webp",
+        "alt": "Zápřednice jedovatá",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 2.5",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Dornfinger_fg5.jpg"
+      },
+      {
+        "src": "images/zaprednice-jedovata/2.webp",
+        "thumb": "images/zaprednice-jedovata/2-thumb.webp",
+        "alt": "Zápřednice jedovatá",
+        "author": "juliusp",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheiracanthium_punctorium_161754531.jpg"
+      },
+      {
+        "src": "images/zaprednice-jedovata/3.webp",
+        "thumb": "images/zaprednice-jedovata/3-thumb.webp",
+        "alt": "Zápřednice jedovatá",
+        "author": "Simon Popy",
+        "license": "CC BY 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Cheiracanthium_punctorium_85237999.jpg"
+      }
+    ]
+  },
+  {
+    "id": "celistnatka-rakosni",
+    "category": "cz",
+    "nameCs": "Čelistnatka rákosní",
+    "nameLat": "Tetragnatha extensa",
+    "family": "čelistnatkovití",
+    "size": {
+      "femaleMm": [
+        6,
+        11
+      ],
+      "maleMm": [
+        6,
+        9
+      ],
+      "note": "Tělo má dlouhé a úzké jako stéblo."
+    },
+    "lifespan": "Asi 1 rok.",
+    "lifestyle": {
+      "hunting": "Kruhová síť s otvorem uprostřed, napnutá nad vodou nebo mezi stébly.",
+      "food": "Komáři, pakomáři, mušky.",
+      "wintering": "Mladí pavouci v rostlinách u břehu."
+    },
+    "occurrence": {
+      "czech": "Hojná u vody po celé republice.",
+      "habitat": "Rákosí, břehy rybníků a potoků, vlhké louky.",
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Když se lekne, natáhne nohy podél stébla a úplně zmizí. Má obrovské čelisti, podle nich dostala jméno.",
+    "photos": [
+      {
+        "src": "images/celistnatka-rakosni/1.webp",
+        "thumb": "images/celistnatka-rakosni/1-thumb.webp",
+        "alt": "Čelistnatka rákosní",
+        "author": "Michel Langeveld",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Tetragnatha_extensa_195123185.jpg"
+      },
+      {
+        "src": "images/celistnatka-rakosni/2.webp",
+        "thumb": "images/celistnatka-rakosni/2-thumb.webp",
+        "alt": "Čelistnatka rákosní",
+        "author": "Foto Conquilha",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aranha-Dos-Juncos-de-Mancha-Amarela_(tetragnatha_extensa)_(Serras_do_Porto_Valongo).jpg"
+      },
+      {
+        "src": "images/celistnatka-rakosni/3.webp",
+        "thumb": "images/celistnatka-rakosni/3-thumb.webp",
+        "alt": "Čelistnatka rákosní",
+        "author": "Didier Descouens",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:(MHNT)_Tetragnatha_extensa_on_Philadelphus_coronarius.jpg"
+      }
+    ]
+  },
+  {
+    "id": "snovacka-pokoutni",
+    "category": "cz",
+    "nameCs": "Snovačka pokoutní",
+    "nameLat": "Steatoda bipunctata",
+    "family": "snovačkovití",
+    "size": {
+      "femaleMm": [
+        4,
+        7
+      ],
+      "maleMm": [
+        4,
+        5
+      ]
+    },
+    "lifespan": "Asi 2 roky.",
+    "lifestyle": {
+      "hunting": "Nepravidelná síť ve škvírách, v rozích oken a za okenicemi.",
+      "food": "Mouchy a jiný hmyz.",
+      "wintering": "V budovách je aktivní celý rok."
+    },
+    "occurrence": {
+      "czech": "Velmi hojná po celé republice.",
+      "habitat": "Okna, kůlny, ploty, ptačí budky, kůra stromů.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Má lesklý hnědý zadeček. Je příbuzná slavné černé vdovy, ale je úplně neškodná. Sameček při namlouvání vrže jako malé housličky.",
+    "photos": [
+      {
+        "src": "images/snovacka-pokoutni/1.webp",
+        "thumb": "images/snovacka-pokoutni/1-thumb.webp",
+        "alt": "Snovačka pokoutní",
+        "author": "Syrio",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steatoda_bipunctata_Piazzo.jpg"
+      },
+      {
+        "src": "images/snovacka-pokoutni/2.webp",
+        "thumb": "images/snovacka-pokoutni/2-thumb.webp",
+        "alt": "Snovačka pokoutní",
+        "author": "Adrian Tync",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steatoda_bipunctata_male_Bytom.jpg"
+      },
+      {
+        "src": "images/snovacka-pokoutni/3.webp",
+        "thumb": "images/snovacka-pokoutni/3-thumb.webp",
+        "alt": "Snovačka pokoutní",
+        "author": "OJJ",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Steatoda_bipunctata,_male.jpg"
+      }
+    ]
+  },
+  {
+    "id": "plachetnatka-kerova",
+    "category": "cz",
+    "nameCs": "Plachetnatka keřová",
+    "nameLat": "Linyphia triangularis",
+    "family": "plachetnatkovití",
+    "size": {
+      "femaleMm": [
+        5,
+        7
+      ],
+      "maleMm": [
+        4,
+        6
+      ]
+    },
+    "lifespan": "Asi 1 rok.",
+    "lifestyle": {
+      "hunting": "Vodorovná plachetka na keři. Pavouk visí pod ní hlavou dolů. Když na ni hmyz spadne, prokousne se k němu zespodu.",
+      "food": "Mušky, mšice, drobný hmyz.",
+      "wintering": "Vajíčka ve škvírách a v listí."
+    },
+    "occurrence": {
+      "czech": "Velmi hojná po celé republice.",
+      "habitat": "Keře, živé ploty, vřes, mladé jehličnany.",
+      "months": [
+        8,
+        9,
+        10
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Na podzim ráno jsou její plachetky pokryté rosou a lesknou se na každém keři.",
+    "photos": [
+      {
+        "src": "images/plachetnatka-kerova/1.webp",
+        "thumb": "images/plachetnatka-kerova/1-thumb.webp",
+        "alt": "Plachetnatka keřová",
+        "author": "Rainer Altenkamp, Berlin",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Linyphia_triangularis_M_070831.jpg"
+      },
+      {
+        "src": "images/plachetnatka-kerova/2.webp",
+        "thumb": "images/plachetnatka-kerova/2-thumb.webp",
+        "alt": "Plachetnatka keřová",
+        "author": "Wilhelm Zimmerling PAR",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruhland,_Grenzstr._3,_Gemeine_Baldachinspinne_an_begr%C3%BCnter_Wand,_Weibchen,_Oberseite,_Sp%C3%A4tsommer,_06.jpg"
+      },
+      {
+        "src": "images/plachetnatka-kerova/3.webp",
+        "thumb": "images/plachetnatka-kerova/3-thumb.webp",
+        "alt": "Plachetnatka keřová",
+        "author": "Wilhelm Zimmerling PAR",
+        "license": "CC BY-SA 4.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Ruhland,_Grenzstr._3,_Gemeine_Baldachinspinne_an_begr%C3%BCnter_Wand,_Weibchen,_Unterseite,_Sp%C3%A4tsommer,_03.jpg"
+      }
+    ]
+  },
+  {
+    "id": "cedivka-podkorni",
+    "category": "cz",
+    "nameCs": "Cedivka podkorní",
+    "nameLat": "Amaurobius fenestralis",
+    "family": "cedivkovití",
+    "size": {
+      "femaleMm": [
+        7,
+        12
+      ],
+      "maleMm": [
+        5,
+        8
+      ]
+    },
+    "lifespan": "Asi 2 roky.",
+    "lifestyle": {
+      "hunting": "Bydlí v trubičce ve škvíře. Kolem vstupu upřede modravě bílou kadeřavou pavučinu. Loví v noci.",
+      "food": "Hmyz, brouci, jiní pavouci.",
+      "wintering": "V úkrytu pod kůrou nebo ve škvíře zdi."
+    },
+    "occurrence": {
+      "czech": "Velmi hojná po celé republice.",
+      "habitat": "Pod kůrou stromů, škvíry zdí, okenní rámy, dřevěné ploty.",
+      "months": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Její pavučina není lepivá, ale načechraná jako vlna. Hmyz se do ní zamotá nožičkami.",
+    "photos": [
+      {
+        "src": "images/cedivka-podkorni/1.webp",
+        "thumb": "images/cedivka-podkorni/1-thumb.webp",
+        "alt": "Cedivka podkorní",
+        "author": "Danny S.",
+        "license": "CC BY 1.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amaurobius-fenestralis011.jpg"
+      },
+      {
+        "src": "images/cedivka-podkorni/2.webp",
+        "thumb": "images/cedivka-podkorni/2-thumb.webp",
+        "alt": "Cedivka podkorní",
+        "author": "Magne Flåten",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amaurobius_fenestralis-MF.JPG"
+      },
+      {
+        "src": "images/cedivka-podkorni/3.webp",
+        "thumb": "images/cedivka-podkorni/3-thumb.webp",
+        "alt": "Cedivka podkorní",
+        "author": "Phil",
+        "license": "CC BY 2.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Amaurobius_fenestralis_female_(5410607035).jpg"
+      }
+    ]
+  },
+  {
+    "id": "sklipkanek-cerny",
+    "category": "cz",
+    "nameCs": "Sklípkánek černý",
+    "nameLat": "Atypus piceus",
+    "family": "sklípkánkovití",
+    "size": {
+      "femaleMm": [
+        10,
+        15
+      ],
+      "maleMm": [
+        7,
+        10
+      ]
+    },
+    "lifespan": "Samice až 8 let.",
+    "lifestyle": {
+      "hunting": "Žije v norce v zemi. Z norky vede nad zem pavučinová punčocha. Když na ni šlápne hmyz, pavouk ho prokousne skrz punčochu a stáhne dolů.",
+      "food": "Brouci, mravenci, stonožky.",
+      "wintering": "Hluboko v norce."
+    },
+    "occurrence": {
+      "czech": "Roztroušeně v teplých oblastech, hlavně jižní Morava a střední Čechy.",
+      "habitat": "Suché, teplé stráně obrácené k jihu, řídké lesy.",
+      "months": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Náš jediný příbuzný velkých sklípkanů. Má obří čelisti, které míří dopředu, stejně jako oni.",
+    "photos": [
+      {
+        "src": "images/sklipkanek-cerny/1.webp",
+        "thumb": "images/sklipkanek-cerny/1-thumb.webp",
+        "alt": "Sklípkánek černý",
+        "author": "Siga",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Atypus_piceus_side.JPG"
+      }
+    ]
+  },
+  {
+    "id": "stepnik-rudy",
+    "category": "cz",
+    "nameCs": "Stepník rudý",
+    "nameLat": "Eresus kollari",
+    "family": "stepníkovití",
+    "size": {
+      "femaleMm": [
+        8,
+        16
+      ],
+      "maleMm": [
+        6,
+        11
+      ]
+    },
+    "lifespan": "Několik let. Sameček dospívá až po 3 až 4 letech.",
+    "lifestyle": {
+      "hunting": "Norka v zemi s pavučinovou stříškou. Číhá a chytá hmyz, který jde kolem.",
+      "food": "Brouci, i velcí střevlíci, mravenci, stonožky.",
+      "wintering": "Hluboko v norce."
+    },
+    "occurrence": {
+      "czech": "Vzácný a zákonem chráněný. Jen na několika teplých místech jižní Moravy a středních Čech.",
+      "habitat": "Teplé stepní stráně s řídkou trávou a kameny.",
+      "months": [
+        8,
+        9,
+        10
+      ]
+    },
+    "dangerToHumans": "neskodny",
+    "funFact": "Sameček má jasně červený zadeček se čtyřmi černými tečkami, takže vypadá jako slunéčko sedmitečné. Je chráněný, nesmí se chytat.",
+    "photos": [
+      {
+        "src": "images/stepnik-rudy/1.webp",
+        "thumb": "images/stepnik-rudy/1-thumb.webp",
+        "alt": "Stepník rudý",
+        "author": "Affemitwaffe",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eresus_cinnaberinus_spec.jpg"
+      },
+      {
+        "src": "images/stepnik-rudy/2.webp",
+        "thumb": "images/stepnik-rudy/2-thumb.webp",
+        "alt": "Stepník rudý",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eresus_fg01.jpg"
+      },
+      {
+        "src": "images/stepnik-rudy/3.webp",
+        "thumb": "images/stepnik-rudy/3-thumb.webp",
+        "alt": "Stepník rudý",
+        "author": "Fritz Geller-Grimm",
+        "license": "CC BY-SA 3.0",
+        "sourceUrl": "https://commons.wikimedia.org/wiki/File:Eresus_fg03.jpg"
+      }
+    ]
+  }
+]
